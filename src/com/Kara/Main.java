@@ -58,7 +58,7 @@ public class Main {
                 && earlyModels.equalsIgnoreCase("no")){
             return "waterfall"; // I don't know why it still returns  agile even if I input all these variables correctly
         }
-        else { //if the user inputs anything incorrectly, then the program should just return waterfall
+        else { //if the user inputs anything incorrectly, then the program should just return agile
             return "agile";
         }
 
