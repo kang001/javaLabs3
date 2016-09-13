@@ -42,7 +42,7 @@ public class Main {
 
     }
 
-    // these are the argumnets my method will accept
+    // these are the arguments my method will accept
     private static String calculateMethodLogic(int numberOfProgrammers,
                                                 String firmSchedule,
                                                 String programmerExperience,
